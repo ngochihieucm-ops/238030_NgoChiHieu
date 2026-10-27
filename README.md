@@ -60,15 +60,15 @@ Truy cập ứng dụng trên trình duyệt tại địa chỉ: http://localhos
 4. Các liên kết dự án (Links)
 GitHub Repository: https://github.com/ngochihieucm-ops/238030_NgoChiHieu
 
-Docker Hub Backend: (Cập nhật link image Docker Hub Backend của bạn tại đây)
+Docker Hub Backend: (https://hub.docker.com/repository/docker/ngochihieu/backend)
 
-Docker Hub Frontend: (Cập nhật link image Docker Hub Frontend của bạn tại đây)
+Docker Hub Frontend: (https://hub.docker.com/repository/docker/ngochihieu/frontend)
 
 Render App (Frontend): (Cập nhật link ứng dụng Render của bạn tại đây)
 
 Render API (Backend): (Cập nhật link API Render của bạn tại đây)
 
-MongoDB Atlas: (Cập nhật thông tin hoặc link quản lý cơ sở dữ liệu MongoDB Atlas của bạn tại đây)
+MongoDB Atlas: (MONGO_URI=mongodb+srv://ngochihieucm_db_user:hieu123456@cluster0.znps2dq.mongodb.net/238030_NgoChiHieu?retryWrites=true&w=majority)
 
 
 ### Hướng dẫn cách lưu và cập nhật:
